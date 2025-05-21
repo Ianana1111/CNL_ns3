@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc /Users/liyichen/Downloads/ns-allinone-3.44/ns-3.44/build/lib/libscratch-nested-subdir-lib.a "CMakeFiles/scratch-nested-subdir-lib.dir/lib/scratch-nested-subdir-library-source.cc.o"
+/Library/Developer/CommandLineTools/usr/bin/ranlib /Users/liyichen/Downloads/ns-allinone-3.44/ns-3.44/build/lib/libscratch-nested-subdir-lib.a

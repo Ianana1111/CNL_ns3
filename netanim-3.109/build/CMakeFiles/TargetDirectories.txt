@@ -1,0 +1,9 @@
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/netanim.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/edit_cache.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/rebuild_cache.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/list_install_components.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/install.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/install/local.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/install/strip.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/netanim_autogen_timestamp_deps.dir
+/Users/liyichen/Downloads/ns-allinone-3.44/netanim-3.109/build/CMakeFiles/netanim_autogen.dir
